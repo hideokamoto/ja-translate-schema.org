@@ -1,0 +1,1 @@
+# ja-translate-schema.org
